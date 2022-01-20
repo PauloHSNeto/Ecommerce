@@ -25,3 +25,4 @@ def  test_dashboard_admin_login(live_server,create_admin_user,chrome_browser_ins
 
     assert "Site administration" in browser.page_source
 
+model
