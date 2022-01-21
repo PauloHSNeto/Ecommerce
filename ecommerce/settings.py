@@ -38,13 +38,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # Local applications
-    "ecommerce",
     "ecommerce.dashboard",
     "ecommerce.inventory",
     "ecommerce.demo",
 
     # External applications
-    "mptt",
+    "mptt"
       
 
 
