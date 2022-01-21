@@ -13,7 +13,7 @@ class Category(MPTTModel):
         null=False,
         unique=False,
         blank=False,
-        verbose_name=_("category name"),
+        verbose_name=_("category nasme"),
         help_text=_("format: required, max-100"),
     )
     slug = models.SlugField(

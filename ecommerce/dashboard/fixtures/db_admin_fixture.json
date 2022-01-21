@@ -4,10 +4,10 @@
     "fields":{
         "username":"paulo",
         "password":"senha",
-        "email":"a@a.com",
-        "is_superuser":true,
-        "is_staff":true,
-        "is_active":true
+        "email": "a@a.com",
+        "is_superuser": true,
+        "is_staff": true,
+        "is_active": true
     }
 }
 ]
