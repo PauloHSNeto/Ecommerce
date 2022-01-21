@@ -255,7 +255,7 @@
       "model": "inventory.category",
       "pk": 19,
       "fields": {
-        "name": "running",
+        "name": "runnings",
         "slug": "running",
         "parent": 3,
         "is_active": true,
